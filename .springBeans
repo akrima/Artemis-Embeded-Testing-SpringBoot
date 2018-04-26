@@ -7,7 +7,11 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
+<<<<<<< HEAD
 		<config>java:org.mas.info.AlfredOutilConverterApplication</config>
+=======
+		<config>java:org.mas.info.ToolsConverterApplication</config>
+>>>>>>> initial commit
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
